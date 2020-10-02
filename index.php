@@ -2,7 +2,7 @@
 
 $token='IGQVJVMl9iYTlZAejdJbF9MaFQ1cEtrZAU1QY01KUHNNMHVUZAkdrUXdlbjVRazg4S3lkXzNaQmd2M28yRDNwQU9KWGQ4aXFyY2toQ2RlTVlYU3U4NlVnU2hXME9HWnBNLW8zMFNMSDRrS0UwZAUFhZAGw0cgZDZD';
 $acces_token='332324687845105|7b16e25067778dae764228ac84f951d3';
-345190186599360
+// 345190186599360
 ?>
 
 <!DOCTYPE html>
@@ -77,7 +77,7 @@ $acces_token='332324687845105|7b16e25067778dae764228ac84f951d3';
 
   <!-- Portfolio Section -->
   <section class="page-section portfolio" id="portfolio">
-    <div class="container flex-center">
+    <div class="container">
 
       <!-- Portfolio Section Heading -->
       <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Portfolio</h2>
